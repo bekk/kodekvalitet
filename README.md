@@ -26,3 +26,12 @@ git clone git@github.com:bekk/kodekvalitet.git
 - Høyreklikk på metoden `main` og velg `Run Main.main()`
 - En kommandolinjeklient starter nå, og du kan skrive ting og trykke `enter`.
 - Have fun! ;)
+
+### Lenke til API-et som blir brukt
+- [genius](https://docs.genius.com/#search-h2)
+
+### Nyttige kommandoer i IntelliJ
+- Rename: cmd + F6
+- Oversikt over refactormuligheter: ctrl + T
+- Find usages: alt + F7 
+- Protip: Sett F-tastene som default på maskinen (Os X: Systemvalg -> Tastatur -> nederste checkbox i lista) 
