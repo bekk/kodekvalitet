@@ -26,3 +26,7 @@ git clone git@github.com:bekk/kodekvalitet.git
 - Høyreklikk på metoden `main` og velg `Run Main.main()`
 - En kommandolinjeklient starter nå, og du kan skrive ting og trykke `enter`.
 - Have fun! ;)
+
+### Lenke til musikk-API
+
+- [genius](https://docs.genius.com/#search-h2)
